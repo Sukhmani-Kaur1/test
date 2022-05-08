@@ -1,4 +1,3 @@
-# **Project Info-:**
+# **(overStock.com)'s Clone**
 
-### **(overStock.com)'s Clone**
-
+## *Project Info-:*
